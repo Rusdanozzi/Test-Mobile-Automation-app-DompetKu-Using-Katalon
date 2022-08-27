@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-06 verify user can click button Bulanan in menu screen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ea2643a8-f4cd-4e26-a44b-d9a107f282ba</testCaseGuid>
+</TestCaseEntity>

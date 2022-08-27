@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-12 verify user can add new data in pengeluaran</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ebf5d172-aaf8-4403-9faa-9d4ddddbfee2</testCaseGuid>
+</TestCaseEntity>

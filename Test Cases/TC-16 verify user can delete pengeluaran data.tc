@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-16 verify user can delete pengeluaran data</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a57a39d6-5e56-4e52-950e-9cb8891d8985</testCaseGuid>
+</TestCaseEntity>

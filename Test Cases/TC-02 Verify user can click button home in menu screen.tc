@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-02 Verify user can click button home in menu screen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f39c9ebe-4d46-4757-a646-1903aaf9d3c2</testCaseGuid>
+</TestCaseEntity>
